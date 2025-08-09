@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 09 Aug 2025 20:00:03 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why it matters what matters</title>
+      <title>How much real is the reality</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sat, 09 Aug 2025 20:00:03 +0530</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Why it matters what matters&lt;/p&gt;</description>
+      <description>&lt;p&gt;How much real is the reality&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
