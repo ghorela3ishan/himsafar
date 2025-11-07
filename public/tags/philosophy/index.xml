@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Himsafar</title>
+    <link>http://localhost:1313/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Himsafar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Aug 2025 20:00:03 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How much real is the reality</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 09 Aug 2025 20:00:03 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;How much real is the reality? This fundamental question has puzzled philosophers, scientists, and thinkers for centuries.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-nature-of-perception&#34;&gt;The Nature of Perception&lt;/h2&gt;&#xA;&lt;p&gt;Our understanding of reality is filtered through our senses and consciousness. What we perceive as &amp;ldquo;real&amp;rdquo; might be just a construction of our minds interpreting electrical signals from our sensory organs.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;&#xA;&lt;p&gt;The question of reality&amp;rsquo;s authenticity remains one of humanity&amp;rsquo;s greatest mysteries, inviting us to continuously question and explore the nature of our existence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

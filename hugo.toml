@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Himsafar'
 theme = "ananke"
+
+[params]
+  featured_image = '/images/722_0451.JPG'
