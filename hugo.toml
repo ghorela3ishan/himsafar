@@ -9,3 +9,13 @@ theme = "ananke"
 
 [params.ananke]
   show_recent_posts = true
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 11
