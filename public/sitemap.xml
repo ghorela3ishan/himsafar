@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://himsafar-ebon.vercel.app/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <loc>https://himsafar-ebon.vercel.app/tags/philosophy/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://himsafar-ebon.vercel.app/posts/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://himsafar-ebon.vercel.app/tags/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
+    <loc>https://himsafar-ebon.vercel.app/tags/technology/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://himsafar-ebon.vercel.app/posts/my-first-post/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://himsafar-ebon.vercel.app/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://himsafar-ebon.vercel.app/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://himsafar-ebon.vercel.app/categories/</loc>
   </url>
 </urlset>
