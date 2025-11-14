@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Himsafar</title><link>https://himsafar-ebon.vercel.app/tags/</link><description>Recent content in Tags on Himsafar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Oct 2025 10:00:00 +0530</lastBuildDate><atom:link href="https://himsafar-ebon.vercel.app/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Philosophy</title><link>https://himsafar-ebon.vercel.app/tags/philosophy/</link><pubDate>Tue, 07 Oct 2025 10:00:00 +0530</pubDate><guid>https://himsafar-ebon.vercel.app/tags/philosophy/</guid><description/></item><item><title>Technology</title><link>https://himsafar-ebon.vercel.app/tags/technology/</link><pubDate>Tue, 07 Oct 2025 10:00:00 +0530</pubDate><guid>https://himsafar-ebon.vercel.app/tags/technology/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Himsafar</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Himsafar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2025 10:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Philosophy</title>
+      <link>http://localhost:1313/tags/philosophy/</link>
+      <pubDate>Tue, 07 Oct 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>http://localhost:1313/tags/technology/</link>
+      <pubDate>Tue, 07 Oct 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/tags/technology/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

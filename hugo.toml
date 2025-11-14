@@ -5,3 +5,7 @@ theme = "ananke"
 
 [params]
   featured_image = '/images/722_0451.JPG'
+  mainSections = ["posts"]
+
+[params.ananke]
+  show_recent_posts = true

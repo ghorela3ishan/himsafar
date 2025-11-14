@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Himsafar</title><link>https://himsafar-ebon.vercel.app/posts/</link><description>Recent content in Posts on Himsafar</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 07 Oct 2025 10:00:00 +0530</lastBuildDate><atom:link href="https://himsafar-ebon.vercel.app/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The internet is a dead place!</title><link>https://himsafar-ebon.vercel.app/posts/my-first-post/</link><pubDate>Tue, 07 Oct 2025 10:00:00 +0530</pubDate><guid>https://himsafar-ebon.vercel.app/posts/my-first-post/</guid><description>&lt;p>Yes! As much as dead it can be. Do you really think you are using those favorite social media, communication or shopping apps? Think again! Because it’s not you who is using them, it’s them using you.&lt;/p>
-&lt;p>Okay it might feel like just another stupid rant until you see those water and energy hungry computational machines and influence and capital hungry owners behind those little demonic terminals in your hands and everybody else’s hands all around you. Yes I am talking about smart phones.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Himsafar</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Himsafar</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Oct 2025 10:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The internet is a dead place!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 07 Oct 2025 10:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Yes! As much as dead it can be. Do you really think you are using those favorite social media, communication or shopping  apps? Think again! Because it’s not you who is using them, it’s them using you.&lt;/p&gt;&#xA;&lt;p&gt;Okay it might feel like just another stupid rant until you see those water and energy hungry computational machines and influence and capital hungry owners behind those little demonic terminals in your hands and everybody else’s hands all around you. Yes I am talking about smart phones.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
