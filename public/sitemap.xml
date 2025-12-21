@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://himsafar-ebon.vercel.app/</loc>
-    <lastmod>2025-10-07T10:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://himsafar-ebon.vercel.app/tags/philosophy/</loc>
-    <lastmod>2025-10-07T10:00:00+05:30</lastmod>
+    <lastmod>2025-12-20T10:00:00+05:30</lastmod>
   </url><url>
     <loc>https://himsafar-ebon.vercel.app/posts/</loc>
+    <lastmod>2025-12-20T10:00:00+05:30</lastmod>
+  </url><url>
+    <loc>https://himsafar-ebon.vercel.app/tags/philosophy/</loc>
     <lastmod>2025-10-07T10:00:00+05:30</lastmod>
   </url><url>
     <loc>https://himsafar-ebon.vercel.app/tags/</loc>
@@ -23,6 +23,8 @@
     <loc>https://himsafar-ebon.vercel.app/about/</loc>
   </url><url>
     <loc>https://himsafar-ebon.vercel.app/contact/</loc>
+  </url><url>
+    <loc>https://himsafar-ebon.vercel.app/explore/</loc>
   </url><url>
     <loc>https://himsafar-ebon.vercel.app/categories/</loc>
   </url>

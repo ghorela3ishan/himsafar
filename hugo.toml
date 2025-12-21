@@ -16,6 +16,12 @@ theme = "ananke"
   weight = 10
 
 [[menu.main]]
+  name = "Explore"
+  url = "/explore/"
+  weight = 11
+
+
+[[menu.main]]
   name = "Contact"
   url = "/contact/"
-  weight = 11
+  weight = 12
