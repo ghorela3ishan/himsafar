@@ -1,0 +1,48 @@
+/* Custom CSS to reduce font sizes proportionally across the entire blog */
+
+/* Method 1: Scale all fonts proportionally by reducing the base font size */
+html {
+    font-size: 14px !important; /* Default is usually 16px, this is 87.5% of original */
+}
+
+/* Alternative: Use percentage for more precise control */
+/* 
+html {
+    font-size: 87.5% !important;
+}
+*/
+
+/* Method 2: If you want more granular control, uncomment and adjust these */
+/*
+:root {
+    --font-scale: 0.875;
+}
+
+body {
+    font-size: calc(1rem * var(--font-scale)) !important;
+}
+
+h1 {
+    font-size: calc(2.5rem * var(--font-scale)) !important;
+}
+
+h2 {
+    font-size: calc(2rem * var(--font-scale)) !important;
+}
+
+h3 {
+    font-size: calc(1.75rem * var(--font-scale)) !important;
+}
+
+h4 {
+    font-size: calc(1.5rem * var(--font-scale)) !important;
+}
+
+h5 {
+    font-size: calc(1.25rem * var(--font-scale)) !important;
+}
+
+h6 {
+    font-size: calc(1.1rem * var(--font-scale)) !important;
+}
+*/
